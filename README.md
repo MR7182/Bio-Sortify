@@ -1,4 +1,4 @@
-# Bio Sortify
+# Bio Sortify: AI for greener tomorrow
 
 ## Overview
 Bio Sortify is a machine learning model trained to classify waste as either biodegradable or non-biodegradable. The model boasts an impressive accuracy of **98.8%**. This project was developed for Philly Codefest 2024, where the theme was "AI for Common Good". 
