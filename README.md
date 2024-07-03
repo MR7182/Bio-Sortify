@@ -18,11 +18,13 @@ Bio Sortify was brought to life by a team of six hardworking and enthusiastic in
 - Vruj Patel
 - Uditi Shah
 
+## Model Prediction Screenshot
+Since the model is not currently hosted and we are using FastAPI, below is a screenshot demonstrating the model's prediction:
+
+![Picture prediction](https://ibb.co/XzvkQr2)
+
 ## Acknowledgements
 We would like to express our gratitude to Philly Codefest 2024 for providing us with the opportunity to work on this project. We would also like to thank AWS Sagemaker for their support.
 
 ## Future Work
 We are continuously working on improving the model's accuracy and the website's user experience.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
