@@ -22,6 +22,7 @@ Bio Sortify was brought to life by a team of six hardworking and enthusiastic in
 Since the model is not currently hosted and we are using FastAPI, below is a screenshot demonstrating the model's prediction:
 
 <a href="https://ibb.co/XzvkQr2"><img src="https://i.ibb.co/2jfY91n/Screenshot-2024-07-02-204900.png" alt="Screenshot-2024-07-02-204900" border="0"></a>
+This is when the user clicks on "Select an Image"
 
 ## Acknowledgements
 We would like to express our gratitude to Philly Codefest 2024 for providing us with the opportunity to work on this project. We would also like to thank AWS Sagemaker for their support.
