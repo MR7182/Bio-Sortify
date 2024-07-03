@@ -23,9 +23,9 @@ Since the model is not currently hosted and we are using FastAPI, below is a scr
 
 <a href="https://ibb.co/XzvkQr2"><img src="https://i.ibb.co/2jfY91n/Screenshot-2024-07-02-204900.png" alt="Screenshot-2024-07-02-204900" border="0"></a>
 
-## Demo Video
+## Real Time Prediction Video
 
-<iframe width="560" height="315" src="https://github.com/MR7182/Bio-Sortify/blob/main/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://github.com/MR7182/Bio-Sortify/blob/main/thumbnail.png)](https://github.com/MR7182/Bio-Sortify/blob/main/video.mp4)
 
 
 ## Acknowledgements
