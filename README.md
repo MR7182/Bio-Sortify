@@ -32,4 +32,8 @@ Since the model is not currently hosted and we are using FastAPI, below is a scr
 We would like to express our gratitude to Philly Codefest 2024 for providing us with the opportunity to work on this project. We would also like to thank AWS Sagemaker for their support.
 
 ## Future Work
-We are continuously working on improving the model's accuracy and the website's user experience.
+Our team is committed to continuous improvement and innovation. We are currently exploring the use of YOLOv8 for faster prediction results. By leveraging the speed and efficiency of YOLOv8, we aim to enhance the real-time classification capabilities of Bio Sortify, making it even more responsive and user-friendly.
+
+In addition, we are also working on expanding the categories of waste that our model can identify. This will allow us to provide more detailed and accurate information to our users, further promoting responsible waste management practices.
+
+Lastly, we are planning to host our model, which will allow us to reach a wider audience and make a greater impact towards a greener tomorrow.
