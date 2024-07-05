@@ -21,7 +21,7 @@ Bio Sortify was brought to life by a team of six hardworking and enthusiastic in
 ## Model Prediction Screenshot
 Since the model is not currently hosted and we are using FastAPI, below is a screenshot demonstrating the model's prediction:
 
-<a href="https://ibb.co/XzvkQr2"><img src="https://i.ibb.co/2jfY91n/Screenshot-2024-07-02-204900.png" alt="Screenshot-2024-07-02-204900" border="0"></a>
+<a href="https://ibb.co/5jqNW08"><img src="https://i.ibb.co/t2y7MGs/Screenshot-2024-07-04-195925.png" alt="Screenshot-2024-07-04-195925" border="0"></a>
 
 ## Real Time Prediction Video
 
